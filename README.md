@@ -1,5 +1,5 @@
 # Hi There
-
+# I'm Janindu 👋
 ## Coding Activity
 
 ![WakaTime](https://wakatime.com/share/@Janidu/34ba465d-7cad-42cd-bc8a-ab71f290b496.svg?theme=transparent)
