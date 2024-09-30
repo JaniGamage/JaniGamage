@@ -1,11 +1,25 @@
 # Hi There
 
+## Coding Activity
+
+![WakaTime](https://wakatime.com/share/@Janidu/34ba465d-7cad-42cd-bc8a-ab71f290b496.svg?theme=transparent)
+
+
 <details>
   <summary>Language Stats</summary>
   
   <br> <!-- This adds some space -->
 
   <img alt="top langs" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaniGamage&layout=compact&theme=transparent&show_icons=true"/>
+
+</details>
+
+<details>
+  <summary>WakaTime Stats</summary>
+  
+  <br> <!-- This adds some space -->
+
+  <img alt="wakatime stat" align="center" width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Janidu&&layout=donut&theme=transparent&show_icons=true"/>
 
 </details>
 
